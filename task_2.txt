@@ -1,0 +1,2 @@
+7) git clone https://github.com/teroferminator/lr_8.git
+9) git add task_2.txt
